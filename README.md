@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 <!-- </p> -->
 </div>
 
-<p><img align="left" style="width:100%; height: 200px; margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindugunathilake&show_icons=true&theme=dark&locale=en&layout=compact" alt="kalindugunathilake" /></p>
+<p><img align="left" style="width:45%; height: 200px; margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalindugunathilake&show_icons=true&theme=dark&locale=en&layout=compact" alt="kalindugunathilake" /></p>
 
-<p>&nbsp;<img align="center" style="width:100%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=kalindugunathilake&show_icons=true&theme=dark&locale=en" alt="kalindugunathilake" /></p>
+<p>&nbsp;<img align="center" style="width:50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=kalindugunathilake&show_icons=true&theme=dark&locale=en" alt="kalindugunathilake" /></p>
 
 <p><img align="center" style="width:100%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindugunathilake&theme=dark" alt="kalindugunathilake" /></p>
 
